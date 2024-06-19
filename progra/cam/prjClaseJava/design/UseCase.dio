@@ -1,0 +1,84 @@
+<mxfile host="65bd71144e">
+    <diagram id="v77HGkIFQDvU7Ed_v2E9" name="Página-1">
+        <mxGraphModel dx="162" dy="460" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://1.bp.blogspot.com/-eqT4sdqKnhQ/WWTnSmkxHXI/AAAAAAAAHV4/RyoOMKcFy6MA8Z9mRtYhpeTD_BkWpi6kgCEwYBhgL/s1600/BDdinosaurs4.png;direction=east;" vertex="1" parent="1">
+                    <mxGeometry x="59.45" y="36" width="134.55" height="133" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://4.bp.blogspot.com/-_jH2U5sajoU/WWTnUMTAzVI/AAAAAAAAHWA/5u2yQXfwm_cmb-63QySmdvn3oiJtLAIqACEwYBhgL/s1600/BDdinosaurs5.png;" vertex="1" parent="1">
+                    <mxGeometry x="343" y="36" width="94.04" height="85" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" style="edgeStyle=none;html=1;fillColor=#76608a;strokeColor=#432D57;" edge="1" parent="1" source="10">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="189" y="315" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="24" style="edgeStyle=none;html=1;fillColor=#76608a;strokeColor=#432D57;" edge="1" parent="1" source="10" target="13">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="192" y="451" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="233" y="410"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="10" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="1">
+                    <mxGeometry x="70" y="363" width="30" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="Ingresa al sistema" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+                    <mxGeometry x="194" y="270" width="140" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="Crear dinosaurios" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+                    <mxGeometry x="198" y="418" width="140" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="" style="endArrow=block;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;" edge="1" parent="1">
+                    <mxGeometry width="160" relative="1" as="geometry">
+                        <mxPoint x="332" y="313" as="sourcePoint"/>
+                        <mxPoint x="492" y="313" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="439" y="341"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="15" value="" style="endArrow=block;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;" edge="1" parent="1">
+                    <mxGeometry width="160" relative="1" as="geometry">
+                        <mxPoint x="332" y="313" as="sourcePoint"/>
+                        <mxPoint x="492" y="313" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="26" style="edgeStyle=none;html=1;fillColor=#76608a;strokeColor=#432D57;" edge="1" parent="1" source="25">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="344" y="314" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="27" style="edgeStyle=none;html=1;fillColor=#76608a;strokeColor=#432D57;" edge="1" parent="1" source="25">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="348" y="445" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="25" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+                    <mxGeometry x="456" y="369" width="30" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" value="Diagram1 heading" style="shape=umlFrame;whiteSpace=wrap;html=1;width=120;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;labelBackgroundColor=none;strokeColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="43" y="223" width="506" height="283" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" value="Usuario" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;labelBackgroundColor=none;strokeColor=#432D57;fillColor=#76608a;fontColor=#ffffff;" vertex="1" parent="1">
+                    <mxGeometry x="46.73000000000002" y="564" width="201" height="181" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" value="+ nombre: String&#10;-edad: Integer" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;labelBackgroundColor=none;" vertex="1" parent="29">
+                    <mxGeometry y="26" width="201" height="49" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;labelBackgroundColor=none;" vertex="1" parent="29">
+                    <mxGeometry y="75" width="201" height="8" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" value="+ setNombre(nombre: String): void&#10;+getNombre(): String&#10;+ ingresar(): Booleam&#10;+ crearDino(): void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;labelBackgroundColor=none;" vertex="1" parent="29">
+                    <mxGeometry y="83" width="201" height="98" as="geometry"/>
+                </mxCell>
+                <mxCell id="36" value="Diagrama de clase" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="43" y="524" width="118" height="26" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
